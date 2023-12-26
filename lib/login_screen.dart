@@ -64,7 +64,7 @@ class LoginScreen extends StatelessWidget {
               ),
               const GradientButton(),
               const SizedBox(
-                height: 20,
+                height: 50,
               ),
             ],
           ),
